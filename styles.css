@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #0a1e27;
-  --secondary-color: #e9c675;
+  --secondary-color: #d3d3d3;
   --text-light: #cbd5e1;
   --white: #ffffff;
   --max-width: 1200px;
@@ -26,7 +26,7 @@
   isolation: isolate;
   margin-bottom: 1rem;
   padding-left: 5rem;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 2px;
   color: var(--secondary-color);
